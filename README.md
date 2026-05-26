@@ -6,7 +6,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=HussienRamadan1&label=Profile+Views&color=e94560&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Student_Developer_Pack-Verified-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Student Pack" />
   <img src="https://img.shields.io/badge/Status-Active_Developer-0f3460?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
 </p>
 
@@ -25,10 +24,10 @@ public class HussienRamadan {
         Developer me = new Developer(
             "Hussien Ramadan",
             Role.BACKEND_ARCHITECT,
-            Mindset.ALWAYS_EXPLORING_THE_UNSEEN
+            Mindset.SECURITY_FIRST
         );
 
-        me.getTechStack().forEach(System.out::println);
+        me.techStack().forEach(System.out::println);
     }
 }
 
@@ -36,15 +35,13 @@ public class HussienRamadan {
  * Representing my professional identity
  */
 record Developer(String name, Role role, Mindset mindset) {
-    public List<String> getTechStack() {
+    public List<String> techStack() {
         return List.of(
             "Java", "Spring Boot", "Spring Security",
             "MySQL", "PostgreSQL", "Docker",
             "C++", "Python", "Kali Linux"
         );
     }
-
-    public boolean isVerifiedStudent() { return true; } // GitHub Student Developer Pack 🎓
 }
 
 enum Role    { BACKEND_ARCHITECT, SECURITY_RESEARCHER, SOFTWARE_ENGINEER }
@@ -86,6 +83,15 @@ enum Mindset { ALWAYS_EXPLORING_THE_UNSEEN, SECURITY_FIRST }
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **Spring Boot Microservices Architecture** | Placeholder for a production-ready microservices architecture project with service discovery, API gateway, observability, and secure inter-service communication. | Java, Spring Boot, Spring Cloud, Docker | 🧩 In Planning |
+| **Security Scanner & Pentesting Toolkit** | Placeholder for a security assessment toolchain to automate reconnaissance, vulnerability checks, and containerized pentesting workflows. | Python, Docker, Security Tooling | 🧩 In Planning |
+
+---
+
 ## 📊 GitHub Insights
 
 <div align="center">
@@ -101,8 +107,7 @@ enum Mindset { ALWAYS_EXPLORING_THE_UNSEEN, SECURITY_FIRST }
 
 | Status | Goal |
 | :---: | :--- |
-| ✅ | GitHub Student Developer Pack — Verified 🎓 |
-| 🔄 | Mastering Spring Boot Microservices Architecture 🏗️ |
+| 🔄 | Mastering Spring Boot Microservices & Cloud-Native Architecture 🏗️ |
 | 🔄 | OSCP Certification Journey 🛡️ |
 
 ---
