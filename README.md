@@ -95,10 +95,10 @@ enum Mindset { ALWAYS_EXPLORING_THE_UNSEEN, SECURITY_FIRST }
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HussienRamadan1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HussienRamadan1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HussienRamadan1&layout=donut&theme=tokyonight&hide_border=true&v=1" height="180" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HussienRamadan1&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HussienRamadan1&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
 
 ---
