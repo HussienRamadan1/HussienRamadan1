@@ -95,10 +95,10 @@ enum Mindset { ALWAYS_EXPLORING_THE_UNSEEN, SECURITY_FIRST }
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HussienRamadan1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HussienRamadan1&layout=donut&theme=tokyonight&hide_border=true&v=1" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=HussienRamadan1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HussienRamadan1&layout=donut&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HussienRamadan1&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=HussienRamadan1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -115,10 +115,10 @@ enum Mindset { ALWAYS_EXPLORING_THE_UNSEEN, SECURITY_FIRST }
 ## 🏆 Recognition
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Main_Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security_Focus-OWASP_%26_PenTesting-red?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_Style-Clean_Code-0f3460?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main_Language-Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Main Language: Java" />
+  <img src="https://img.shields.io/badge/Security_Focus-OWASP_%26_PenTesting-red.svg?style=for-the-badge&logo=owasp&logoColor=white" alt="Security Focus: OWASP & PenTesting" />
+  <img src="https://img.shields.io/badge/Code_Style-Clean_Code-0f3460.svg?style=for-the-badge&logo=sonarqube&logoColor=white" alt="Code Style: Clean Code" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Architecture: Microservices" />
 </div>
 
 ---
